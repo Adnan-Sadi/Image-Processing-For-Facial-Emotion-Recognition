@@ -1,0 +1,11 @@
+{
+    "model": "random_forest",
+    "model_config": {
+        "n_estimators": 200,
+        "max_features": "sqrt",
+        "max_depth": null,
+        "min_samples_split": 3,
+        "criterion": "entropy",
+        "random_state": 42
+    }
+}

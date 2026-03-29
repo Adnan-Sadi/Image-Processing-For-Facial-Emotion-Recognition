@@ -1,0 +1,9 @@
+{
+    "model": "svm",
+    "model_config": {
+        "kernel": "linear",
+        "C": 10.0,
+        "gamma": "scale",
+        "random_state": 42
+    }
+}

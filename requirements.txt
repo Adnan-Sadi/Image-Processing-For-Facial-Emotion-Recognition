@@ -1,0 +1,12 @@
+dlib==20.0.0
+numpy==2.4.3
+opencv-python==4.13.0.92
+packaging==26.0
+pip==26.0.1
+setuptools==82.0.1
+wheel==0.46.3
+matplotlib==3.10.8
+pandas==3.0.1
+scikit-learn==1.8.0
+joblib==1.5.3
+scikit-image==0.26.0
